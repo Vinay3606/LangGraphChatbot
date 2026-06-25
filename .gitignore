@@ -1,0 +1,27 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Virtual Environment
+bot/
+venv/
+env/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Environment File
+.env
+
+# Ignore Python cache folders
+.pytest_cache/
+.mypy_cache/
+
+# Ignore Jupyter Notebook cache
+.ipynb_checkpoints/
+
+# Ignore OS files
+Thumbs.db
+.DS_Store
