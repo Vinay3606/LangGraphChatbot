@@ -138,7 +138,7 @@ This interface demonstrates a simple conversational AI chatbot built with **Lang
 - 🎨 Clean Streamlit UI
 
 <p align="center">
-  <img src="assets/100.png" alt="Basic Chatbot" width="900"/>
+  <img src="assests/100.png" alt="Basic Chatbot" width="900"/>
 </p>
 
 ---
@@ -160,7 +160,7 @@ Each conversation is assigned a unique thread, allowing users to continue previo
 - 🎨 Modern Streamlit interface
 
 <p align="center">
-  <img src="assets/103.png" alt="Thread-based Chatbot" width="900"/>
+  <img src="assests/103.png" alt="Thread-based Chatbot" width="900"/>
 </p>
 
 ---
