@@ -126,7 +126,42 @@ streamlit run streamlit_frontend.py
 
 ## 📷 Screenshots
 
-Coming Soon...
+### 1️⃣ Basic Chatbot
+
+This interface demonstrates a simple conversational AI chatbot built with **LangGraph** and **Ollama**. The chatbot maintains conversation context using **MemorySaver**, allowing it to remember previous messages during the session.
+
+**Highlights**
+
+- 💬 Interactive chat interface
+- 🧠 Stateful conversation memory
+- ⚡ Fast responses using Qwen2.5:3B
+- 🎨 Clean Streamlit UI
+
+<p align="center">
+  <img src="assets/100.png" alt="Basic Chatbot" width="900"/>
+</p>
+
+---
+
+### 2️⃣ Thread-Based Chatbot with Streaming
+
+This version extends the chatbot with **thread-based conversation management** and **real-time streaming responses**.
+
+Each conversation is assigned a unique thread, allowing users to continue previous chats or start completely new ones. Instead of waiting for the entire response, the chatbot streams tokens one by one, creating a smoother and more interactive chat experience.
+
+**Features**
+
+- 🧵 Multiple chat threads
+- ♻️ Resume previous conversations
+- ➕ Start a new chat anytime
+- 🧠 Persistent memory for every thread
+- ⚡ Token-by-token streaming responses
+- 💬 Chat history management
+- 🎨 Modern Streamlit interface
+
+<p align="center">
+  <img src="assets/103.png" alt="Thread-based Chatbot" width="900"/>
+</p>
 
 ---
 
