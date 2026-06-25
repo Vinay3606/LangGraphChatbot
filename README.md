@@ -160,7 +160,7 @@ Each conversation is assigned a unique thread, allowing users to continue previo
 - 🎨 Modern Streamlit interface
 
 <p align="center">
-  <img src="assests/103.png" alt="Thread-based Chatbot" width="900"/>
+  <img src="assests/104.png" alt="Thread-based Chatbot" width="900"/>
 </p>
 
 ---
